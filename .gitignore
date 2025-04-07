@@ -1,0 +1,19 @@
+# Ignore binaries and intermediate files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Ignore project files for Visual Studio
+.vs/
+.vscode/
+.idea/  
+.vsconfig/
+
+# Ignore config files 
+*.user
+*.userprefs  
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
